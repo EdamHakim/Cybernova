@@ -46,7 +46,7 @@ To request access to the source code of Cybernova, please contact me via *[Linke
 
 ## 🤝 Acknowledgments
 - *Team Members*:
-  - *Edam Hakim (Me)* - [LinkedIn](https://www.linkedin.com/in/edamhakim/).   
+  - **Edam Hakim (Me)** - [LinkedIn](https://www.linkedin.com/in/edamhakim/).   
   - Yessine Hakim  - [LinkedIn](https://www.linkedin.com/in/yessinehakim/).    
   - Moez Touil  - [LinkedIn](https://www.linkedin.com/in/moeztouil/). 
   - Dhia Dinne Djebbi  
